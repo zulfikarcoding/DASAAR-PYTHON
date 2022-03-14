@@ -1,0 +1,8 @@
+nama = "zulfikar"
+umur = 18
+tinggi = 1.60
+kuliah = True
+print(type(nama))
+print(type(umur))
+print(type(tinggi))
+print(type(kuliah))
